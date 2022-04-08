@@ -39,7 +39,7 @@ The Self-Sufficiency Standard determines the amount of income required for worki
 
 
 
-### what is its purpose?
+### Purpose of the tool
 
 This dynamic tool  strengthens our common understanding of the challenges the working residents of Montgomery County face. The user can apply various filters filters to census data to reflect specific geographic and household information for a given family type. The resulting Self-Sufficiency Standard defined the earning needed to establish economic stability. Additional graphs depict census information about residents living below the self-sufficiency.
 
@@ -50,7 +50,8 @@ for basic necessities.
 
 
 
-### what is the data?
+### What is the data?
+
 The tool uses data such as
 
 Occupational Employment and Wage Statistics
@@ -61,17 +62,18 @@ U.S census bureau - American Community survey 5-year estimates ,  which included
 To calculate the the self-sufficiency standard which the CWW thinks is a better measure than poverty guidelines by Office of the Assistant Secretary for planning and Evaluation  (ASPE)
 
 
-### how was the data collected?
+### How was the data collected?
+
 The tool relies on the data collected by the US government.
 Census data is collected at regular intervals using methodologies such as total counts, sample surveys, and administrative records. After it is collected or generated, census data is summarized to represent counts or estimates of groups of people for different geographic areas
 
-### who are the users that this visualization was made for?
+### Userbase
 
 The Standard is a tool that can be used in a variety of ways-by clients of workforce and training programs seeking paths to self-sufficiency,by program managers to evaluate program effectiveness, and by policymakers and legislators seeking to create programs and pathways that lead to self-sufficiency for working families.
 
 
 
-### what questions do people want to ask?
+### Questions to ask
 
 The tool helps us visualize the difference between the federal poverty line and the self-sufficiency standard.
 
@@ -101,7 +103,7 @@ Which jobs offer the best salaries compared to the SSS?
 </li>
 </ul>
 
-### how can they find the answers with this tool?
+### How to find answers to these questions
 
 The tools offers various type of visualization to help the user answer these questions.
 The user can tweak the inputs to the visualization as per their requirement.
@@ -112,10 +114,11 @@ The tool has a page dedicated to this
 <img width="682" alt="image" src="https://user-images.githubusercontent.com/40148194/162533653-92778820-1712-4d3d-915b-f6f55887a135.png">
 
 
-### what works?
+## What works? <img width="50px" alt="image" src="https://user-images.githubusercontent.com/40148194/162535109-58025bdb-b45c-4fa3-9ed7-fac029923f09.png">
 
 
-### what needs improvement?
+
+### Needs improvement?
 
 
 
