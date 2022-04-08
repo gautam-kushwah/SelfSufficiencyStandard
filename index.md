@@ -97,6 +97,10 @@ The user can tweak the inputs to the visualization as per their requirement.
 Some visualizations also have a map of the counties which are color coded to aid the user to quickly select that county and see the associated information.
 Furthermore, all visualizations also have an “info” button on the top right which the user can utilize to better understand the visualization.
 
+The tool has a page dedicated to this
+<img width="682" alt="image" src="https://user-images.githubusercontent.com/40148194/162533653-92778820-1712-4d3d-915b-f6f55887a135.png">
+
+
 ### what works?
 
 
