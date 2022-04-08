@@ -124,7 +124,7 @@ The tool has a page dedicated to this
 
 <div style="dislpay:flex; font-weight: 600; text-align:center; width: 100%;">Multiple visualisation of the same data</div>
 
-
+<br>
 - The pie helps the user understand how much the that component contributes to the whole
 - Whereas the table helps the user see the exact amount a particular component has.
 - The table also has rows for annual and hourly wages according to SSS
@@ -134,7 +134,7 @@ The tool has a page dedicated to this
 <img width="705" alt="image" src="https://user-images.githubusercontent.com/40148194/162536943-a1692696-5142-4e9a-9e73-df0270a20f37.png">
 
 <div style="dislpay:flex; font-weight: 600; text-align:center; width: 100%;">Some insights</div>
-
+<br>
 - The tool gives us some interesting insights as to how the SSS compares to the Minimum wage and and how much would that cover the basic needs of an individual.
 - The insights are interative and change dynamically with the input
 - It gives the user context about how much hours would an adult have to put to make money on mininmum wage to meet bare essentials
@@ -155,10 +155,28 @@ The tool has a page dedicated to this
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/40148194/162539739-e5866ec8-8d61-412d-b1fa-da762075ab4d.png">
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/40148194/162540152-bec13b05-adeb-478a-ba5b-95923ff41bba.png">
 
+- The barplot on the right initially displays the data for the whole county in an aggregated manner but clicking in the map changes the barplot to display data for that area/PUMA <sub>Public Use Microdata Areas (PUMAs) are non-overlapping, statistical geographic areas that partition each state or equivalent entity into geographic areas </sub>
+- Good use of popups: On hovering over the bar plot the popup shows all the areas covered in that PUMA
+- The dot chart gives us an overall picture of all the PUMAs and how the data is distributed amongst them
+
 
 ### Needs improvement?
 
+<img width="679" alt="image" src="https://user-images.githubusercontent.com/40148194/162542285-47064916-2432-4815-8b6b-8627bc97c4e7.png">
+
+- Instead of using shaded regions on the bar plot, there should have been reference lines only to avoid visual overload
+- Labels for the shaded regions could've been on the right hand side of the graph to avoid crowding and confusion
 
 
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/40148194/162542448-6a95c952-ce85-457e-a1ee-4d67d1a42b60.png">
+
+- A better color scheme could have been used, preferably with high contrast to represent the two categories
+
+<div style="display:flex; align-items: center;">
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/40148194/162543389-ba99b2e4-b541-4178-a54e-cd3ea25f6b66.png">
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/40148194/162543502-ab6cd2f4-5681-4a29-8161-3fe48da29274.png">
+</div>
+- No clear option to sort the bar plots
+- This is consistent throughout the tool
 
 
