@@ -27,7 +27,7 @@ Intuitively, self-sufficiency standard to me sounded like a yardstick to measure
 
 
 Formally for this tool, the Self-Sufficiency Standard is defined as follows
-<pre id=""prepre>
+<pre id=""prepre">
 <code style="background: #ccc;" id="coder">
 A project of the Center for Women’s Welfare (CWW), the <strong>Self-Sufficiency Standard(SSS)</strong> is a budget-based, living wage measure that defines the real cost of living for working families at a minimally adequate level. The Standard is an affordability measure and an alternative to the official poverty measure.
 The Self-Sufficiency Standard determines the amount of income required for working families to meet basic needs at a minimally adequate level, taking into account family composition, ages of children, and geographic differences in costs.
@@ -117,6 +117,17 @@ The tool has a page dedicated to this
 ## What works? <img width="50px" alt="image" src="https://user-images.githubusercontent.com/40148194/162535109-58025bdb-b45c-4fa3-9ed7-fac029923f09.png">
 
 
+## The Good
+
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/40148194/162535654-50e5ff88-fb2d-403a-87c6-17b082b36497.png">
+Multiple visualisation of the same data
+
+The pie helps the user understand how much the that component contributes to the whole
+Whereas the table helps the user see the exact amount a particular component has.
+The table also has rows for annual and hourly wages according to SSS
+All the user inputs are clearly labelled
+
+                                                                                                                                        
 
 ### Needs improvement?
 
