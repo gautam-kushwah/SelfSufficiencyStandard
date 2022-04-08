@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # Self-Sufficiency Standard - Montgomery County, MD
 
 [Link to the original visualization ](https://public.tableau.com/app/profile/countystat/viz/Self-SufficiencyStandard_FD3/Title)
