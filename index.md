@@ -1,4 +1,9 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>
+  .page-header{
+  display:none !important
+  }
+ </style>
 
 # Self-Sufficiency Standard - Montgomery County, MD
 
