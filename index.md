@@ -10,12 +10,12 @@ Intuitively, self-sufficiency standard to me sounded like a yardstick to measure
 
 Formally for this tool, the Self-Sufficiency Standard is defined as follows
 
-<mark style="background: #ccc;">
+<span style="background: #ccc;">
 A project of the Center for Women’s Welfare (CWW), the Self-Sufficiency Standard is a budget-based, living wage measure that defines the real cost of living for working families at a minimally adequate level. The Standard is an affordability measure and an alternative to the official poverty measure.
 
 The Self-Sufficiency Standard determines the amount of income required for working families to meet basic needs at a minimally adequate level, taking into account family composition, ages of children, and geographic differences in costs.
 
-</mark>
+</span>
 
 
 
