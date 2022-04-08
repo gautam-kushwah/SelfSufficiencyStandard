@@ -124,6 +124,7 @@ The tool has a page dedicated to this
 
 <div style="dislpay:flex; font-weight: 600; text-align:center; width: 100%;">Multiple visualisation of the same data</div>
 
+
 - The pie helps the user understand how much the that component contributes to the whole
 - Whereas the table helps the user see the exact amount a particular component has.
 - The table also has rows for annual and hourly wages according to SSS
@@ -132,13 +133,13 @@ The tool has a page dedicated to this
 
 <img width="705" alt="image" src="https://user-images.githubusercontent.com/40148194/162536943-a1692696-5142-4e9a-9e73-df0270a20f37.png">
 
-Some insights
+<div style="dislpay:flex; font-weight: 600; text-align:center; width: 100%;">Some insights</div>
 
 - The tool gives us some interesting insights as to how the SSS compares to the Minimum wage and and how much would that cover the basic needs of an individual.
 - The insights are interative and change dynamically with the input
 - It gives the user context about how much hours would an adult have to put to make money on mininmum wage to meet bare essentials
 
-
+<hr>
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/40148194/162537323-ab7f23b4-0332-4be6-9f9c-3ebf1e1c37db.png">
 
 - Clicking on a particular county on the map highlights the data on other visualisations
@@ -149,6 +150,11 @@ Some insights
 
 - Good color scheme
 - Reference line for average SSS helps the user quickly compare the SSS for a particular county against a baseline
+
+
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/40148194/162539739-e5866ec8-8d61-412d-b1fa-da762075ab4d.png">
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/40148194/162540152-bec13b05-adeb-478a-ba5b-95923ff41bba.png">
+
 
 ### Needs improvement?
 
