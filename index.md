@@ -122,28 +122,31 @@ The tool has a page dedicated to this
 
 <img width="676" alt="image" src="https://user-images.githubusercontent.com/40148194/162535654-50e5ff88-fb2d-403a-87c6-17b082b36497.png">
 
-Multiple visualisation of the same data
+<div style="dislpay:flex; font-weight: 600; text-align:center; width: 100%;">Multiple visualisation of the same data</div>
 
--The pie helps the user understand how much the that component contributes to the whole
--Whereas the table helps the user see the exact amount a particular component has.
--The table also has rows for annual and hourly wages according to SSS
--All the user inputs are clearly labelled
+- The pie helps the user understand how much the that component contributes to the whole
+- Whereas the table helps the user see the exact amount a particular component has.
+- The table also has rows for annual and hourly wages according to SSS
+- All the user inputs are clearly labelled
 
 
 <img width="705" alt="image" src="https://user-images.githubusercontent.com/40148194/162536943-a1692696-5142-4e9a-9e73-df0270a20f37.png">
+
 Some insights
 
--The tool gives us some interesting insights as to how the SSS compares to the Minimum wage and and how much would that cover the basic needs of an individual.
--The insights are interative and change dynamically with the input
--It gives the user context about how much hours would an adult have to put to make money on mininmum wage to meet bare essentials
+- The tool gives us some interesting insights as to how the SSS compares to the Minimum wage and and how much would that cover the basic needs of an individual.
+- The insights are interative and change dynamically with the input
+- It gives the user context about how much hours would an adult have to put to make money on mininmum wage to meet bare essentials
 
 
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/40148194/162537323-ab7f23b4-0332-4be6-9f9c-3ebf1e1c37db.png">
--Clicking on a particular county on the map highlights the data on other visualisations
--Map is pannable, zoomable and resetable
+
+- Clicking on a particular county on the map highlights the data on other visualisations
+- Map is pannable, zoomable and resetable
 
 
 <img width="716" alt="image" src="https://user-images.githubusercontent.com/40148194/162537397-1954fbca-3a37-4494-9cb8-67a374015798.png">
+
 - Good color scheme
 - Reference line for average SSS helps the user quickly compare the SSS for a particular county against a baseline
 
