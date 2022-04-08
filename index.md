@@ -173,8 +173,8 @@ The tool has a page dedicated to this
 - A better color scheme could have been used, preferably with high contrast to represent the two categories
 
 <div style="display:flex; align-items: center;">
-<img width="718" alt="image" src="https://user-images.githubusercontent.com/40148194/162543389-ba99b2e4-b541-4178-a54e-cd3ea25f6b66.png">
-<img width="694" alt="image" src="https://user-images.githubusercontent.com/40148194/162543502-ab6cd2f4-5681-4a29-8161-3fe48da29274.png">
+<img style="width:50%;" alt="image" src="https://user-images.githubusercontent.com/40148194/162543389-ba99b2e4-b541-4178-a54e-cd3ea25f6b66.png">
+<img style="width:48%" alt="image" src="https://user-images.githubusercontent.com/40148194/162543502-ab6cd2f4-5681-4a29-8161-3fe48da29274.png">
 </div>
 - No clear option to sort the bar plots
 - This is consistent throughout the tool
