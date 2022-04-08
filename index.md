@@ -159,6 +159,10 @@ The tool has a page dedicated to this
 - Good use of popups: On hovering over the bar plot the popup shows all the areas covered in that PUMA
 - The dot chart gives us an overall picture of all the PUMAs and how the data is distributed amongst them
 
+<img width="704" alt="image" src="https://user-images.githubusercontent.com/40148194/162545329-61f1fd30-b92a-477f-83c3-ef5e2f44dcce.png">
+
+- Good use of size as a measure of data. The diameter of the dots correspond to the percentage of the employees in that occupation which constitute the the total workforce in the county
+
 
 ### Needs improvement?
 
@@ -178,5 +182,18 @@ The tool has a page dedicated to this
 </div>
 - No clear option to sort the bar plots
 - This is consistent throughout the tool
+
+
+<img width="740" alt="image" src="https://user-images.githubusercontent.com/40148194/162545559-bdeeeca7-753c-4126-8122-5251edaeb57f.png">
+
+- The placement of the plot and the legend could have been more aligned
+- The colors for unrelated categories are very close to each other in hue
+
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/40148194/162545983-1ed2e076-6e28-4a0f-ac7f-f38e7aed081f.png">
+ - The chart is too small to be able to see overlapping dots. There should be an option to zoom in.
+
+### Other Improvements
+
+- There could be an option to change color schemes for people who have trouble perceiving different colors
 
 
