@@ -3,6 +3,17 @@
   .page-header{
   display:none !important
   }
+  pre{
+    position: relative;
+    height: 200px;
+  }
+  code{
+    background: #ccc;
+    width: 96%;
+    position: absolute;
+    white-space: break-spaces;
+    padding: 0 20px 10px;
+  }
  </style>
 
 # Self-Sufficiency Standard - Montgomery County, MD
