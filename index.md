@@ -60,7 +60,7 @@ The minimum wage in Montgomery County
 Poverty guidelines based on the number of people in the household
 U.S census bureau - American Community survey 5-year estimates ,  which included a wide range of sociodemographics features 
 
-To calculate the the self-sufficiency standard which the CWW thinks is a better measure than poverty guidelines by Office of the Assistant Secretary for planning and Evaluation  (ASPE)
+To calculate the the self-sufficiency standard which the CWW thinks is a better measure than poverty guidelines given by the Office of the Assistant Secretary for planning and Evaluation  (ASPE)
 
 
 ### How was the data collected?
@@ -107,9 +107,12 @@ Which jobs offer the best salaries compared to the SSS?
 ### How to find answers to these questions
 
 The tools offers various type of visualization to help the user answer these questions.
+The visualisation include bar graphs, pie charts, choropleth maps, dot charts etc.
 The user can tweak the inputs to the visualization as per their requirement.
 Some visualizations also have a map of the counties which are color coded to aid the user to quickly select that county and see the associated information.
 Furthermore, all visualizations also have an “info” button on the top right which the user can utilize to better understand the visualization.
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/40148194/162547196-5f2512e1-ab0d-4b0e-be6e-a3ecdc822042.png">
+
 
 The tool has a page dedicated to this
 <img width="682" alt="image" src="https://user-images.githubusercontent.com/40148194/162533653-92778820-1712-4d3d-915b-f6f55887a135.png">
@@ -171,19 +174,20 @@ The tool has a page dedicated to this
 - Instead of using shaded regions on the bar plot, there should have been reference lines only to avoid visual overload
 - Labels for the shaded regions could've been on the right hand side of the graph to avoid crowding and confusion
 
-
+<hr>
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/40148194/162542448-6a95c952-ce85-457e-a1ee-4d67d1a42b60.png">
 
 - A better color scheme could have been used, preferably with high contrast to represent the two categories
-
+<hr>
 <div style="display:flex; align-items: center;">
 <img style="width:50%;" alt="image" src="https://user-images.githubusercontent.com/40148194/162543389-ba99b2e4-b541-4178-a54e-cd3ea25f6b66.png">
 <img style="width:48%" alt="image" src="https://user-images.githubusercontent.com/40148194/162543502-ab6cd2f4-5681-4a29-8161-3fe48da29274.png">
 </div>
+
 - No clear option to sort the bar plots
 - This is consistent throughout the tool
 
-
+<hr>
 <img width="740" alt="image" src="https://user-images.githubusercontent.com/40148194/162545559-bdeeeca7-753c-4126-8122-5251edaeb57f.png">
 
 - The placement of the plot and the legend could have been more aligned
