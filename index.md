@@ -138,7 +138,7 @@ The tool has a page dedicated to this
 - The table also has rows for annual and hourly wages according to SSS
 - All the user inputs are clearly labelled
 
-
+<hr>
 <img width="705" alt="image" src="https://user-images.githubusercontent.com/40148194/162536943-a1692696-5142-4e9a-9e73-df0270a20f37.png">
 
 <div style="dislpay:flex; font-weight: 600; text-align:center; width: 100%;">Some insights</div>
@@ -154,12 +154,14 @@ The tool has a page dedicated to this
 - Map is pannable, zoomable and resetable
 
 
+<hr>
 <img width="716" alt="image" src="https://user-images.githubusercontent.com/40148194/162537397-1954fbca-3a37-4494-9cb8-67a374015798.png">
 
 - Good color scheme
 - Reference line for average SSS helps the user quickly compare the SSS for a particular county against a baseline
 
 
+<hr>
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/40148194/162539739-e5866ec8-8d61-412d-b1fa-da762075ab4d.png">
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/40148194/162540152-bec13b05-adeb-478a-ba5b-95923ff41bba.png">
 
@@ -167,10 +169,14 @@ The tool has a page dedicated to this
 - Good use of popups: On hovering over the bar plot the popup shows all the areas covered in that PUMA
 - The dot chart gives us an overall picture of all the PUMAs and how the data is distributed amongst them
 
+
+<hr>
 <img width="704" alt="image" src="https://user-images.githubusercontent.com/40148194/162545329-61f1fd30-b92a-477f-83c3-ef5e2f44dcce.png">
 
 - Good use of size as a measure of data. The diameter of the dots correspond to the percentage of the employees in that occupation which constitute the the total workforce in the county
 
+
+<hr>
 <img width="831" alt="image" src="https://user-images.githubusercontent.com/40148194/162548197-e62676c7-c687-4872-8b13-0673caf1ef76.png">
 
 - This visualisation clearly communicates the income based on education and the gender pay gap.
@@ -203,6 +209,7 @@ The tool has a page dedicated to this
 - The placement of the plot and the legend could have been more aligned
 - The colors for unrelated categories are very close to each other in hue
 
+<hr>
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/40148194/162545983-1ed2e076-6e28-4a0f-ac7f-f38e7aed081f.png">
  - The chart is too small to be able to see overlapping dots. There should be an option to zoom in.
 
