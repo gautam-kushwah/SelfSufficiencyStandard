@@ -17,6 +17,7 @@
  </style>
 
 # Self-Sufficiency Standard - Montgomery County, MD
+### Critique by Gautam Kushwah for CS424 Spring 2022
 
 [Link to the original visualization ](https://public.tableau.com/app/profile/countystat/viz/Self-SufficiencyStandard_FD3/Title)
 
