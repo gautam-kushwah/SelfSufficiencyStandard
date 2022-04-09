@@ -40,7 +40,7 @@ The Self-Sufficiency Standard determines the amount of income required for worki
 
 
 
-### Purpose of the tool
+## Purpose of the tool
 
 This dynamic tool  strengthens our common understanding of the challenges the working residents of Montgomery County face. The user can apply various filters filters to census data to reflect specific geographic and household information for a given family type. The resulting Self-Sufficiency Standard defined the earning needed to establish economic stability. Additional graphs depict census information about residents living below the self-sufficiency.
 
@@ -51,7 +51,7 @@ for basic necessities.
 
 
 
-### What is the data?
+## What is the data?
 
 The tool uses data such as
 
@@ -63,18 +63,18 @@ U.S census bureau - American Community survey 5-year estimates ,  which included
 To calculate the the self-sufficiency standard which the CWW thinks is a better measure than poverty guidelines given by the Office of the Assistant Secretary for planning and Evaluation  (ASPE)
 
 
-### How was the data collected?
+## How was the data collected?
 
 The tool relies on the data collected by the US government.
 Census data is collected at regular intervals using methodologies such as total counts, sample surveys, and administrative records. After it is collected or generated, census data is summarized to represent counts or estimates of groups of people for different geographic areas
 
-### Userbase
+## Userbase
 
 The Standard is a tool that can be used in a variety of ways-by clients of workforce and training programs seeking paths to self-sufficiency,by program managers to evaluate program effectiveness, and by policymakers and legislators seeking to create programs and pathways that lead to self-sufficiency for working families.
 
 
 
-### Questions to ask
+## Questions to ask
 
 The tool helps us visualize the difference between the federal poverty line and the self-sufficiency standard.
 
@@ -104,9 +104,14 @@ Which jobs offer the best salaries compared to the SSS?
 </li>
 </ul>
 
-### How to find answers to these questions
+## How to find answers to these questions
 
-The tools offers various type of visualization to help the user answer these questions.
+The tools offers various type of visualization to help the user answer these questions.<br>
+
+
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/40148194/162548168-26b7a09e-dffd-4de8-9412-3496bf19584d.png">
+
+There is a naviation bar on top of the tool which the user can use to navigate between different visualisations.
 The visualisation include bar graphs, pie charts, choropleth maps, dot charts etc.
 The user can tweak the inputs to the visualization as per their requirement.
 Some visualizations also have a map of the counties which are color coded to aid the user to quickly select that county and see the associated information.
@@ -118,7 +123,7 @@ The tool has a page dedicated to this
 <img width="682" alt="image" src="https://user-images.githubusercontent.com/40148194/162533653-92778820-1712-4d3d-915b-f6f55887a135.png">
 
 
-## What works? <img width="50px" alt="image" src="https://user-images.githubusercontent.com/40148194/162535109-58025bdb-b45c-4fa3-9ed7-fac029923f09.png">
+# What works? <img width="50px" alt="image" src="https://user-images.githubusercontent.com/40148194/162535109-58025bdb-b45c-4fa3-9ed7-fac029923f09.png">
 
 
 ## The Good
@@ -166,8 +171,13 @@ The tool has a page dedicated to this
 
 - Good use of size as a measure of data. The diameter of the dots correspond to the percentage of the employees in that occupation which constitute the the total workforce in the county
 
+<img width="831" alt="image" src="https://user-images.githubusercontent.com/40148194/162548197-e62676c7-c687-4872-8b13-0673caf1ef76.png">
 
-### Needs improvement?
+- This visualisation clearly communicates the income based on education and the gender pay gap.
+- Good use of icons for different categories which also serves as a legend
+- Hovering over the bar gives the exact reading for income thus making it easier to read the chart.
+
+## Needs improvement?
 
 <img width="679" alt="image" src="https://user-images.githubusercontent.com/40148194/162542285-47064916-2432-4815-8b6b-8627bc97c4e7.png">
 
@@ -196,7 +206,7 @@ The tool has a page dedicated to this
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/40148194/162545983-1ed2e076-6e28-4a0f-ac7f-f38e7aed081f.png">
  - The chart is too small to be able to see overlapping dots. There should be an option to zoom in.
 
-### Other Improvements
+## Other Improvements
 
 - There could be an option to change color schemes for people who have trouble perceiving different colors
 
